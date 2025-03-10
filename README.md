@@ -19,7 +19,7 @@ instagrame-hacking is a bash based script which is officially made to test passw
     sudo apt-get update
     sudo apt-get install git
     sudo apt install python3
-    git clone https://github.com/akashblackhat/instagrame-hacking.git
+    git clone https://github.com/madhav/instagrame-hacking.git
     ls
     cd instagrame-hacking.py
     ls
@@ -31,7 +31,7 @@ instagrame-hacking is a bash based script which is officially made to test passw
     pkg install python3 -y
     pkg install git -y
     pip install lolcat
-    git clone https://github.com/akashblackhat/instagrame-hacking.git
+    git clone https://github.com/madhav/instagrame-hacking.git
     ls
     cd instagrame-hacking.py
     python3 instagrame-hacking.py
@@ -40,19 +40,15 @@ instagrame-hacking is a bash based script which is officially made to test passw
 * Note:- Don't delete any of the scripts included in core files
 * Open new session and start TOR (tor or vpn) before starting the attack
 ## 🔗 ***Check this***
-### Subscribe our channel on youtube:
-https://youtu.be/VIvsSMsk1C0
  
 ## 👥 ***Join***
-### Facebook group:
-https://www.facebook.com/AKASHBLACKHAT
-
 ### Instagram:
 
-https://instagram.com/akashblackhat?igshid=ZDdkNTZiNTM=
+https://www.instagram.com/madhavkaushik67?igsh=MWczZWpsd2lmaGUyNQ==
+https://www.instagram.com/hacktech.co.in?igsh=bnFuaGk2MTY0MjQ4
 
 ### My GitHub ID link:
-https://github.com/akashblackhat
+https://github.com/Madhav998
 
 ### 📢 Warning
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
