@@ -19,11 +19,11 @@ instagrame-hacking is a bash based script which is officially made to test passw
     sudo apt-get update
     sudo apt-get install git
     sudo apt install python3
-    git clone https://github.com/madhav/instagrame-hacking.git
+    git clone https://github.com/Madhav998/instahacking.git
     ls
-    cd instagrame-hacking.py
+    cd instahacking
     ls
-    sudo python3 instagrame-hacking.py
+    sudo python3 instahacking.py
 # Termux Installation :
     apt-get update -y
     apt-get upgrade -y
@@ -31,10 +31,10 @@ instagrame-hacking is a bash based script which is officially made to test passw
     pkg install python3 -y
     pkg install git -y
     pip install lolcat
-    git clone https://github.com/madhav/instagrame-hacking.git
+    git clone https://github.com/Madhav998/instahacking.git
     ls
-    cd instagrame-hacking.py
-    python3 instagrame-hacking.py
+    cd instahacking.py
+    python3 instahacking.py
  # Note
 * Now you need internet connection to continue further process...
 * Note:- Don't delete any of the scripts included in core files
